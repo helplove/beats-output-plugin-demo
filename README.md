@@ -8,9 +8,9 @@ Tested with Filebeat.
 ## Quick start
 
 
-1. git clone https://github.com/helplove/ccbbeats.git
+1. git clone https://github.com/helplove/beats-output-plugin-demo.git
 
-2. cd ccbbeats
+2. cd beats-output-plugin-demo
 
 3. go mod tidy
 
